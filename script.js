@@ -1,1 +1,1 @@
-
+let yourArray =['Pradeep' , 'kumar', 22 , true, false];
